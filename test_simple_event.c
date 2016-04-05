@@ -78,7 +78,6 @@ cb_nio_recv(void *ctx_base)
 
 	return recvlen;
 }
-
 #endif
 
 int
