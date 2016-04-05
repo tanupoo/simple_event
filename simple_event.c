@@ -1,4 +1,9 @@
 /*
+ * Copyright (C) 2010 Shoichi Sakane <sakane@tanu.org>, All rights reserved.
+ * See the file LICENSE in the top level directory for more details.
+ */
+
+/*
  * select-based simple event library.
  */
 #include <sys/types.h>
