@@ -1,0 +1,3 @@
+[submodule "simple_sio"]
+	path = simple_sio
+	url = git@github.com:tanupoo/simple_sio.git
